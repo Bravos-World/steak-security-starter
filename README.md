@@ -85,7 +85,7 @@ repositories {
 
 ```kotlin
 dependencies {
-    implementation("com.github.Bravos-World:steak-security-starter:v1.0.0")
+    implementation("com.github.Bravos-World:steak-security-starter:v1.0.1")
 }
 ```
 
