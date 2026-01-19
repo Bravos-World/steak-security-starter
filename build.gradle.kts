@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "com.bravos.steak"
-version = "1.0.1"
+version = "1.0.2"
 description = "steak-security-starter"
 
 java {
@@ -35,7 +35,7 @@ dependencies {
     api("org.springframework:spring-web:7.0.2")
     implementation("jakarta.servlet:jakarta.servlet-api:6.1.0")
     implementation("org.springframework.boot:spring-boot-starter-aop:3.5.9")
-    api("com.github.Bravos-World:steak-utils:v1.1.4")
+    api("com.github.Bravos-World:steak-utils:v1.1.5")
 }
 
 publishing {
